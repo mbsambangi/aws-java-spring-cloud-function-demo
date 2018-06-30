@@ -1,0 +1,21 @@
+== Retrieve Health-care Coverage for a given Member ID
+
+Example of curl command:
+
+include::{snippets}/healthfirst-member-check/curl-request.adoc[]
+
+Example of http request:
+
+include::{snippets}/healthfirst-member-check/http-request.adoc[]
+
+Example of http response:
+
+include::{snippets}/healthfirst-member-check/http-response.adoc[]
+
+Example of httpie request:
+
+include::{snippets}/healthfirst-member-check/httpie-request.adoc[]
+
+Response body:
+
+include::{snippets}/healthfirst-member-check/response-body.adoc[]
